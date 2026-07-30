@@ -57,5 +57,12 @@ The dataset contains over 5,500 SMS messages labeled as:
 
 ---
 
+---
+
+## 👨‍🏫 Author
+
+**Valberto Feitosa**
+
+Professor • Data Scientist • Machine Learning • NLP
 ## 📁 Repository Structure
 
